@@ -1,4 +1,7 @@
-Step1: download:  http://an.kaist.ac.kr/~haewoon/release/twitter_social_graph/twitter_rv.tar.gz
+Step1: download:  
+```
+wget http://an.kaist.ac.kr/~haewoon/release/twitter_social_graph/twitter_rv.tar.gz
+```
 This is a twitter graph.
 In this case, we use docker to compile it. If you want to run the source code in local, please refer to this 
 website https://github.com/GraphChi/graphchi-cpp
