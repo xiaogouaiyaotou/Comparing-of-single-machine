@@ -10,5 +10,5 @@ Experiments are conducted on CloudLab Wisconsin server, which has two Intel E5-2
 
 Principle of datasets
 ----
-All data sets are measured by the number of vertices, increasing tenfold at a time. So that can it measure all in-memory and out-of-memory conditions.
+All data sets are measured by the number of vertices, increasing ten folds at a time. So that it can measures all in-memory and out-of-memory conditions.
 source: http://an.kaist.ac.kr/traces/WWW2010.html, http://snap.stanford.edu/index.html
